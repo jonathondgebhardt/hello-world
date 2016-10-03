@@ -1,0 +1,3 @@
+Source: http://rogerdudler.github.io/git-guide/
+
+Working through the guide in Lab 04 for CEG2350
